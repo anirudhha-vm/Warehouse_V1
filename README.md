@@ -22,26 +22,6 @@
 
 ---
 
-## 📸 Gallery
-
-<div align="center">
-
-| Warehouse Environment | Occupancy Map (SLAM) |
-|:---:|:---:|
-| ![Warehouse Front View](Media/Front.png) | ![SLAM Occupancy Map](Media/Occupancy_Map.png) |
-
-| ROS 2 Topics | Action Graph |
-|:---:|:---:|
-| ![ROS 2 Topics](Media/Ros2_Topics.png) | ![Action Graph](Media/Action_Graph.png) |
-
-| LiDAR TF Tree | Odometry Filter |
-|:---:|:---:|
-| ![LiDAR TF](Media/Lidar_TF.png) | ![Odom Filter](Media/Odom_Filter.png) |
-
-</div>
-
----
-
 ## 📖 Overview
 
 This project delivers a **complete simulation pipeline** for a Warehouse Autonomous Mobile Robot (AMR) built from scratch using **NVIDIA Isaac Sim** and **ROS 2 Jazzy**. The robot is a custom-assembled differential-drive platform capable of:
