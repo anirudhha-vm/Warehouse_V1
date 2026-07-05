@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🤖 Warehouse AMR Simulation
+# Warehouse AMR Simulation
 
 ### Autonomous Mobile Robot Simulation using NVIDIA Isaac Sim, ROS 2 Jazzy & SLAM Toolbox
 
